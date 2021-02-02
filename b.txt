@@ -1,2 +1,3 @@
 this is a new text file created by git.
 add something in b.txt...
+add sth in b.txt
